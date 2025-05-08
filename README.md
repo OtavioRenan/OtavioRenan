@@ -5,7 +5,7 @@
 Soteropolitano apaixonado por tecnologia, com foco em desenvolvimento web e aplicações. Proativo e autodidata, com forte interesse em novas linguagens e frameworks. Desenvolvedor Full-Stack com experiência em desenvolvimento de aplicações web utilizando PHP, Kotlin e Java. Possui sólida base em bancos de dados relacionais e não relacionais. Experiência em projetos de sistemas de gestão e APIs RESTful. Adepto de metodologias ágeis e apaixonado por criar soluções escaláveis e eficientes.
 
 <p align="left">
-    <a href="https://github.com/OtavioRenan>
+   <a href="https://github.com/OtavioRenan?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
@@ -67,6 +67,22 @@ Soteropolitano apaixonado por tecnologia, com foco em desenvolvimento web e apli
 />
 <img 
     align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+<img 
+    align="left" 
     alt="React"
     title="React" 
     width="30px" 
@@ -79,7 +95,7 @@ Soteropolitano apaixonado por tecnologia, com foco em desenvolvimento web e apli
     title="Angular"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anuglar/anuglar-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"
 />
 <img 
     align="left" 
@@ -87,7 +103,7 @@ Soteropolitano apaixonado por tecnologia, com foco em desenvolvimento web e apli
     title="Vue.Js"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vue/vue-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" 
 />
 <img 
     align="left" 
@@ -137,18 +153,6 @@ Soteropolitano apaixonado por tecnologia, com foco em desenvolvimento web e apli
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
-
-
-
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
 <br/>
 <br/>
 
