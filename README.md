@@ -186,18 +186,13 @@ Soteropolitano apaixonado por tecnologia, com foco em desenvolvimento web e apli
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioRenan&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-</p>
 
-<br>
-<br>
-
-### 🔥 Get streak stats
-<p>
-    <a href="https://github.com/OtavioRenan/github-readme-streak-stats">
+   <a href="https://github.com/OtavioRenan/github-readme-streak-stats">
       <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="OtavioRenan's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=OtavioRenan&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
-    </a>    
-  </p>
+    </a>
+</p>
+
 
 <!--
 <p>
