@@ -180,6 +180,9 @@ Soteropolitano apaixonado por tecnologia, com foco em desenvolvimento web e apli
     </a>
     <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
   </p>
+  
+<br/>
+<br/>
 
 <p>
   <img 
@@ -197,6 +200,10 @@ Soteropolitano apaixonado por tecnologia, com foco em desenvolvimento web e apli
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioRenan&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+
+<br/>
+<br/>
+
 <p>
  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="OtavioRenan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=OtavioRenan&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </p>
