@@ -24,7 +24,14 @@ Soteropolitano apaixonado por tecnologia, com foco em desenvolvimento web e apli
 ---
 
 ### 🤖 Linguagens e Tecnologias
-
+<img 
+    align="left" 
+    alt="Linux" 
+    title="Linux"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
+/>
 <img 
     align="left" 
     alt="Java" 
@@ -99,6 +106,14 @@ Soteropolitano apaixonado por tecnologia, com foco em desenvolvimento web e apli
 />
 <img 
     align="left" 
+    alt="Ionic"
+    title="Ionic" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Vue.Js" 
     title="Vue.Js"
     width="30px" 
@@ -158,6 +173,14 @@ Soteropolitano apaixonado por tecnologia, com foco em desenvolvimento web e apli
 
 ### 📊 Estatísticas
 
+  <p>
+    <a href="https://github.com/OtavioRenan/github-readme-streak-stats">
+      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="OtavioRenan's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=OtavioRenan&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
+    </a>
+    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+  </p>
+
 <p>
   <img 
     align="left" 
@@ -173,5 +196,7 @@ Soteropolitano apaixonado por tecnologia, com foco em desenvolvimento web e apli
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioRenan&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
+</p>
+<p>
+ <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="OtavioRenan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=OtavioRenan&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </p>
