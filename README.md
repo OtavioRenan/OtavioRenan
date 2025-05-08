@@ -180,6 +180,9 @@ Soteropolitano apaixonado por tecnologia, com foco em desenvolvimento web e apli
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=OtavioRenan&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
+   
+<br/>
+<br/>
 
 <img 
       align="left" 
@@ -198,9 +201,6 @@ Soteropolitano apaixonado por tecnologia, com foco em desenvolvimento web e apli
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="OtavioRenan's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=OtavioRenan&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
     </a>    
   </p>  
-<br/>
-<br/>
-
 
 <!--
 <p>
