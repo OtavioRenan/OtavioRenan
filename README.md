@@ -22,7 +22,7 @@ Soteropolitano apaixonado por tecnologia, com foco em desenvolvimento web e apli
 </p>
 
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages ​​and Technologies
 <img 
     align="left" 
     alt="Linux" 
@@ -170,7 +170,7 @@ Soteropolitano apaixonado por tecnologia, com foco em desenvolvimento web e apli
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p>
   <img 
@@ -191,6 +191,8 @@ Soteropolitano apaixonado por tecnologia, com foco em desenvolvimento web e apli
 
 <br/>
 <br/>
+
+### 🔥 Get streak stats
 
 <p>
     <a href="https://github.com/OtavioRenan/github-readme-streak-stats">
