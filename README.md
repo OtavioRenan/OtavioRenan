@@ -180,9 +180,6 @@ Soteropolitano apaixonado por tecnologia, com foco em desenvolvimento web e apli
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=OtavioRenan&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-   
-<br/>
-<br/>
 
 <img 
       align="left" 
