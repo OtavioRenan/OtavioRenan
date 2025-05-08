@@ -188,8 +188,8 @@ Soteropolitano apaixonado por tecnologia, com foco em desenvolvimento web e apli
   />
 </p>
 
-<br/>
-<br/>
+<br>
+<br>
 
 ### 🔥 Get streak stats
 <p>
