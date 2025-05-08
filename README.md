@@ -21,7 +21,6 @@ Soteropolitano apaixonado por tecnologia, com foco em desenvolvimento web e apli
     </a>
 </p>
 
----
 
 ### 🤖 Linguagens e Tecnologias
 <img 
