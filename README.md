@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Otavio
+# 👨🏽‍💻️ Otavio
 
 **`Desenvolvedor FullStack`**
 
